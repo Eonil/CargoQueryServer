@@ -1,0 +1,7 @@
+[package]
+name = "CargoQueryServer"
+version = "0.1.0"
+authors = ["Hoon H. <drawtree@me.com>"]
+
+[dependencies]
+toml = "0.1.20"
